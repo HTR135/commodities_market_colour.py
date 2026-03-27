@@ -1,7 +1,7 @@
 import requests  # Connects to News API and collects articles
 
 # Personal API and Base_URL
-API_KEY = "6b042f73df204d6b821c23a2df1be311"  # My personal API NewsAPI gave me
+API_KEY = ""
 BASE_URL = "https://newsapi.org/v2/everything"  # NewsAPI endpoint
 
 # Keywords List. This can be altered and changed to preference
